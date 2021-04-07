@@ -21,3 +21,32 @@
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 -->
+
+<!-- --------------------------Lab14-------------------------------- -->
+
+Number and name of feature: Normalize the database
+Estimate of time needed to complete: 2
+Start time: 02:00 PM
+Finish time: 04:00
+Actual time needed to complete: 2 Hours
+Number and name of feature:Stretch
+
+Not completed.
+Estimate of time needed to complete: _____
+Start time: _____
+Finish time: _____
+Actual time needed to complete: _____
+
+
+
+
+
+
+
+
+
+
+
+
+
+
